@@ -1,6 +1,6 @@
 # **Bem-vindo ao repositório do MacBench** 
 
-🚀 MacBench **(Mozambican Accounting Bench)** é um software de contabilidade em nuvem desenvolvido por estudantes moçambicanos entusiastas, com o propósito de tornar os processos contábeis simplificados e de criar um sistema de contabilidade acessível para todos.
+🚀 MacBench **(Mozambican Accounting Bench)** é um software de contabilidade em nuvem desenvolvido com o propósito de tornar os processos contábeis simplificados e de criar um sistema de contabilidade acessível para todos.
 
 
 💡 Use este repositório para criar `Issues` sobre:
